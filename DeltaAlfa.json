@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ALFA v3.7.3Fix",
-      "code": 29,
+      "version": "DELTA ALFA v3.7.3F",
+      "code": 30,
       "url": "https://modsalfa.blogspot.com/2020/04/delta-yowa.html",
-      "changelog": "Efeito de queda - IU da página inicial do Messenger - Bolhas gradientes - Corrigido a visualização rápida do contato - Corrigido toast online - Outras correções..."
+      "changelog": "Corrigido visualização de grande - Novo download de Temas - Alterado o código de versão para 211117007 - Outras correções..."
     }
   ]
 }
