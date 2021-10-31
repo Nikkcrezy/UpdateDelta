@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "Update DELTA MAGNUM v3.8.0F",
-      "code": 32,
+      "version": "Update DELTA MAGNUM v3.8.1F",
+      "code": 33,
       "url": "https://seulink.online/GIWFjT7Hz",
-      "changelog": "Efeito de onda - Estilo dos contatos - Gerenciar armazenamento - Texto com emojis - Estilo de cabeçalho de chat - Ícones de mensagem apagada - ícones de seta do chat - Tradutor (traduzir a mensagem antes do envio) - Novas entradas de texto - Novos efeitos de queda - Novos efeitos sonoros"
+      "changelog": "Editar mensagem - Novas entradas de texto - Estilo de coração ❤️ - Novos estilos de telas"
     }
   ]
 }
