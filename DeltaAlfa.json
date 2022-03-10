@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "Update DELTA ALFA v4.0.1",
-      "code": 42,
-      "url": "https://t.me/s/DGModz/21",
-      "changelog": "Nova versão disponível!\n\nRetirada a loja de temas\n\nAdicionado Esquema de Cores (Baixar e aplicar temas)\n\nOpção de extrair Temas"
+      "version": "Update DELTA ALFA v4.0.1F",
+      "code": 43,
+      "url": "https://t.me/s/DGModz/24",
+      "changelog": "Nova versão disponível!\n\nLimite de vídeo com suporte até 500MB\n\nReações personalizadas\n\nDesfazer postagem de status"
     }
   ]
 }
