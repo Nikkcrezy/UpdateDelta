@@ -2,9 +2,9 @@
   "records": [
     {
       "version": "Migração para Fouad Plus",
-      "code": 50,
-      "url": "https://xlab-temas.blogspot.com/2022/04/fouad-plus.html",
-      "changelog": "Nova base\n\nNovas bolhas\n\nNovas funções\n\nCorreção de erros"
+      "code": 51,
+      "url": "https://bit.ly/3UhYFoN",
+      "changelog": "Aviso por 24h\n\nApós 24h, esse aviso irá desaparecer\n\nIgnore caso queira permanecer no DELTA"
     }
   ]
 }
